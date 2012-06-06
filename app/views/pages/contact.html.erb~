@@ -1,7 +1,17 @@
+<!DOCTYPE html>
 
+<html>
+   <head>
+     <title> Ruby on Rails Tutorial Sample App | <%= @title %> </title>
+   </head>
+   <body>
      <h1>Contact</h1>
      <p>
         Contact Ruby on Rails  <a href="http://railstutorial.org/">
          Ruby on Rails Tutorial</a> sample application
      </p>
+    </body>
+</html>
+
+
 
